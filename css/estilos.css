@@ -1,0 +1,153 @@
+
+
+
+/* Nicolás Silva - 332115 y Alexander Stepaniuk - 325748 */
+
+* {
+	font-family: Arial, sans-serif;
+}
+
+header{
+	background-color: #f9a370;
+	text-align: center;
+}
+#idHref{
+	display:flex;
+	justify-content:center;
+	list-style-type: none;
+}
+
+#idHref li {
+	margin: 0 20px;
+}
+
+#idIMG{
+	display: flex;
+    align-items: center; 
+}
+
+.fotos{
+	margin: 0.5%;
+}
+	
+#idInfoGeneralS{
+	background-color: #f6f1db;
+}
+
+#idInfoGeneralS h1{
+	border-color: #f6f1db;
+}
+
+h1 {
+	text-align: center;
+	padding: 1%;
+	font-weight:bold;
+	border-style:outset;
+}
+
+h3 {
+	text-align: center;
+	font-weight:bold;
+}
+
+
+#idGestion{
+	background-color:#ffd388;
+}
+
+#idGestion h1{
+	border-color: #ffd388;
+}
+ 
+ table {
+	 width: 100%;
+	 border: solid black;
+	 empty-cells:show;
+ }
+ 
+ thead {
+	 background-color: #f2f2f2;
+ }
+ 
+ th{
+	 border: solid black 1px;
+ }
+ 
+ td {
+  padding: 1%;
+}
+ 
+ 
+ #idJugarS{
+	 background-color: #fddac6;
+ }
+ 
+ #idJugarS h1{
+	 border-color: #fddac6;
+ }
+ 
+ #idTextPreg{
+	 text-align: center;
+	 background-color: #e17c24;
+	 color: white;
+	 padding: 0.5% 40%;
+	 margin: 0% 3%;
+	 border: solid white 1px;
+ }
+ 
+ #idBotonResp{
+	text-align:center;
+ }
+ 
+ #idBotonResp2{
+	 text-align: center;
+ }
+ 
+ .botonresp{
+	 background-color: #e17c24; 
+     color: white; 
+     border: none; 
+     padding: 0.5% 1%;  
+	 margin: 0% 1%;
+	 border: solid white 1px;
+ }
+ 
+ 
+ #idNombre{
+	 margin-left: 10%;
+ }
+ 
+ #idDescripcion{
+	 margin-left: 10%;
+ }
+ 
+ #idComboTema{
+	width: 11.3%;
+	margin-left: 9%;
+}
+
+#idTextoPregunta{
+	margin-left: 2%;
+}
+
+#idNivel{
+	margin-left: 10%;
+}
+
+#idRespCorrecta{
+	margin-left: 3%;
+}
+
+#idRespIncorrectas{
+	margin-left: 1%;
+}
+
+#idTemaElegir{
+	margin-left: 5%;
+	width: 13%;
+}
+
+#idNivelJuego{
+	margin-left: 5%;
+}
+
